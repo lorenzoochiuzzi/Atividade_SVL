@@ -7,6 +7,14 @@ LORENZO: "ok
 أت"
 =======
 
-gostei muito "tenha um bom dia 01 de 100"
+<<<<<<< HEAD
+
+
+
+
+Gabriel:
+Quanto custa um PC gamer? Olha, o valor de um PC gamer pode variar de uns R$799,71 a R$99.999,99.
+Então isso vai depender da potência que você precisa que o computador tenha. 
+Por exemplo, a quantidade de memória, a velocidade do processador, entre outros detalhes.
 
 >>>>>>> cb850db57dc8887b65eb6e155f0acf0a4ae5888f
