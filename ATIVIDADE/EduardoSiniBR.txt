@@ -1,6 +1,12 @@
 Gosto bastante do curso de desenvolvimentos de sistemas do cotil, mas creio que poderia ter mais coisas relacionadas aos componentes de computadores
 
+<<<<<<< HEAD
 LORENZO: "ok 
 أترغب في تفعيل الإشعارات؟
 أترغب في تفعيل الإشعارات؟
 أت"
+=======
+
+gostei muito "tenha um bom dia 01 de 100"
+
+>>>>>>> cb850db57dc8887b65eb6e155f0acf0a4ae5888f

@@ -1,5 +1,9 @@
 Estou aprendendo a gostar do curso, estou estudando mais que o ano passado e venho me dando bem, tirei 8 na atividade avaliativa Dissertativa com a Simone e 9 com a Tania. Venho gostando bastante das materias e cursos por fora que trazem pra escola.
 
+<<<<<<< HEAD
+01000010 01101111 01101101 00100000 01110100 01110010 01100001 01100010 01100001 01101100 01101000 01101111 00101100 00100000 01110100 01100101 01101110 01101000 01100001 00100000 01110101 01101101 00100000 01100010 01101111 01101101 00100000 01100100 01101001 01100001 00100000 00111011 00101001 
+=======
+so existe 10 tipos de pessoas os gabriel e os não gabriel
 
 أترغب في تفعيل الإشعارات؟
 أترغب في تفعيل الإشعارات؟
@@ -36,8 +40,12 @@ Estou aprendendo a gostar do curso, estou estudando mais que o ano passado e ven
 أترغب في تفعيل الإشعارات؟
 أترغب في تفعيل الإشعارات؟
 PS: nem sei oq está escrito ¯\_(ツ)_/¯
+<<<<<<< HEAD
 
 LORENZO: "ok 
 أترغب في تفعيل الإشعارات؟
 أترغب في تفعيل الإشعارات؟
 أت"
+=======
+>>>>>>> e93af664004e6fa80559d84cb316aa02a79edb98
+>>>>>>> cb850db57dc8887b65eb6e155f0acf0a4ae5888f
